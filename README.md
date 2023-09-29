@@ -16,12 +16,12 @@ My inspiration is from the line art version of Scream and the Starry Night. The 
 ![function2](https://github.com/hzha2979/hzha2979_9103_tut02/assets/145727979/6b93743d-f5ae-4d6e-a26c-f876d2bb53d1)
 
 
-[Link Text](https://github.com/Creativeguru97/YouTube_tutorial/tree/master/p5_hacks/Glow_effect
+[Source](https://github.com/Creativeguru97/YouTube_tutorial/tree/master/p5_hacks/Glow_effect
 Links to an external site.)
 
 3. getLevel()function in sound library of p5.js can be used to visualize the input sound. It can returns a single amplitude reading at the moment it is called.
 ![function3](https://github.com/hzha2979/hzha2979_9103_tut02/assets/145727979/d994feac-910e-4314-8a37-f1d936aa8648)
 
-[Link Text](https://p5js.org/reference/#/p5.Amplitude/getLevel
+[Source](https://p5js.org/reference/#/p5.Amplitude/getLevel
 Links to an external site.)
 
